@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: mycoolapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Valentin
+Implementation-Vendor-Id: com.luv2code.springboot.demo
+Build-Jdk: 1.8.0_20
+Implementation-URL: https://spring.io/projects/spring-boot/mycoolapp
+Created-By: Maven Integration for Eclipse
+
